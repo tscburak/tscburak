@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a fresh software engineer. I am currently working on full-stack development. I am also eager to learn ML, NLP, image processing, and Embedded Software. 
+I’m Burak, a newly graduated software engineer with a passion for full-stack development. I’m eager to dive deeper into machine learning, natural language processing, image processing, and embedded software.
 
-Highlight environments that I have used so far:
+Here are some of the environments and technologies I've worked with so far:
 - Next.js
 - Node.js
 - React.js
