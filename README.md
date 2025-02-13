@@ -1,11 +1,22 @@
-### Hi there 👋
-I’m Burak, a newly graduated software engineer with a passion for full-stack development. I’m eager to dive deeper into machine learning, natural language processing, image processing, and embedded software.
+# Hi there, I'm Burak! 👋
 
-Here are some of the environments and technologies I've worked with so far:
-- Next.js
-- Node.js
-- React.js
-- MySQL
-- AWS (RDS, EC2, Lambda)
-- Typescript
-- Flutter/Dart
+## 🚀 About Me
+- 🎓 Recent Software Engineering graduate
+- 💻 Full-Stack Developer | Passionate about building innovative projects from scratch
+- 🔥 Exploring AI, NLP, Image Processing, and Machine Learning
+
+## 🛠 Skills
+### **Languages & Frameworks**
+- **Node.js** | **React.js** | **Next.js** | **JavaScript/TypeScript**
+- **Java | Python | C** | **Flutter/Dart** | **Angular**
+
+### **Tools & Platforms**
+- **AWS (EC2, Lambda, S3, RDS)** | **SQL & MongoDB**
+- **Git, Linux**
+
+## 📫 Connect With Me
+- **GitHub**: [github.com/tscburak](https://github.com/tscburak)
+- **LinkedIn**: [linkedin.com/in/tscburak](https://www.linkedin.com/in/tscburak)
+
+🚀 Always open to collaborations and new opportunities!
+
