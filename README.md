@@ -1,8 +1,7 @@
 # Hi there, I'm Burak! 👋
 
 ## 🚀 About Me
-- 🎓 Recent Software Engineering graduate
-- 💻 Full-Stack Developer | Passionate about building innovative projects from scratch
+- 💻 Backend-leaning Full-Stack | Passionate about building innovative projects from scratch
 - 🔥 Exploring AI, NLP, Image Processing, and Machine Learning
 
 ## 🛠 Skills
