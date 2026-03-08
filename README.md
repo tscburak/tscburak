@@ -7,7 +7,6 @@
 ## 🛠 Skills
 ### **Languages & Frameworks**
 - **Node.js** | **React.js** | **Next.js** | **JavaScript/TypeScript**
-- **Java | Python | C** | **Flutter/Dart** | **Angular**
 
 ### **Tools & Platforms**
 - **AWS (EC2, Lambda, S3, RDS)** | **SQL & MongoDB**
