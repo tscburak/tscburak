@@ -100,10 +100,3 @@ $ cat ~/.config/connections
   email      → burak@tscburak.dev
 ```
 
----
-
-<div align="center">
-
-<span style="color:#6666666">root@burak:~# █</span>
-
-</div>
