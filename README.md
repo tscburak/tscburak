@@ -5,7 +5,7 @@ burak — Software Engineer
 $ cat about.txt
 ┌────────────────────────────────────────────────────────────────────────────────────┐
 │ ROLE:           Backend-leaning Full-Stack Developer                               │
-│ COMPANY:        Software Engineer @ Dataliva                                       │
+│ COMPANY:        Software Developer @ Dataliva                                      │
 │ FOCUS:          Designing and building backend systems from scratch                │
 │                 Developing full-stack web applications                             │
 │                 Building AI-assisted applications and experimental data pipelines  │
